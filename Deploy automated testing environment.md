@@ -32,6 +32,7 @@ Execute command `ruby -v` in terminal to check Ruby version. If it does not work
     ```
 
   - OS X
+  *(you should be a user with root, e.g. 1⃣sudo passwd root 2⃣the passwd of current user 3⃣your new root passwd)*
     1. required to install [Xcode](http://developer.apple.com/xcode/) and [Homebrew](http://brew.sh/).
 
     2. install by Homebrew
